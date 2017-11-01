@@ -20,9 +20,7 @@ Edit where << >> appears.
 ```
 
 4. Just do it.
-```
-:+1:
 
-```
+:+1:
 
 
