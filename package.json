@@ -1,0 +1,15 @@
+{
+  "name": "<<Name your project>>",
+  "version": "0.0.1",
+  "description": "<<Describe your project>>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "<<Name you>>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "*",
+    "bootstrap": "*"
+  }
+}
